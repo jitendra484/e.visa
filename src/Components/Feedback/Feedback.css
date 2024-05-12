@@ -1,0 +1,55 @@
+.feedback{
+    background-color: #000000f7;
+}
+.fd{
+    color:#F94628;
+    font-weight: 700;
+}
+
+    
+
+.img1{
+    background: linear-gradient(rgba(0, 0, 0, 0.825), rgba(0, 0, 0, 0.861)), url(../../assets/img_01.jpg);
+    background-size: cover;
+    background-position: center;
+    height:420px;
+    width: 100%;
+
+    
+
+}
+.img2{
+    background: linear-gradient(rgba(0, 0, 0, 0.816), rgba(0, 0, 0, 0.847)), url(../../assets/img_02.jpg);
+    background-size: cover;
+    background-position: center;
+    height:420px;
+    width: 100%;
+
+}
+.img3{
+    background: linear-gradient(rgba(0, 0, 0, 0.816), rgba(0, 0, 0, 0.847)), url(../../assets/img_03.jpg);
+    background-size: cover;
+    background-position: center;
+    height:420px;
+    width: 100%;
+}
+
+
+                
+.tquote{
+    background-color: #F94628;
+    padding: 15px;
+    border-radius: 50%;
+}
+.img1:hover{
+    background: #cd546429;
+    opacity: 0.5;
+}
+.img2:hover{
+    background: #cd546429;
+    opacity: 0.5;
+}
+.img3:hover{
+    background: #cd546429;
+    opacity: 0.5;
+}

@@ -1,0 +1,21 @@
+.fc{
+    font-size: 50px;
+    font-weight: 600;
+}
+.flag{
+    margin: 20px 0;
+    overflow-x: scroll;
+}
+.flag::-webkit-scrollbar{
+    display: none   ;
+}
+.can {
+    
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+  }
+
+  .can:hover {
+    transform: scale(1.05);
+  }

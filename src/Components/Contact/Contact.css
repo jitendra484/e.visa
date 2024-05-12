@@ -1,0 +1,25 @@
+.form-grop{
+    position: relative;
+    width: 600px;
+    margin-bottom: 20px;
+}
+
+
+
+
+.ciconn{
+    position: absolute;
+    
+
+}
+
+.input-field{
+    width: 350px;
+    padding: 10px;
+    padding-left: 70px;
+    background: #252525;
+    font-size: 22px;
+}
+.btn11{
+    background:#EE342C;
+}

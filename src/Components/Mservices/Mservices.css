@@ -1,0 +1,25 @@
+.mservices{
+    padding: 60px;
+    padding-bottom: 300px;
+
+}
+.tspc{
+    letter-spacing: 5px;
+}
+.bservices{
+    border: 1px solid rgba(74, 72, 72, 0.628);
+    padding: 25px;
+}
+.aa{
+    margin-top: -170px;
+}
+.bservices {
+    
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+  }
+
+  .bservices:hover {
+    transform: scale(1.05);
+  }

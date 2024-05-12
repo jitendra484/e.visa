@@ -1,0 +1,11 @@
+.tspc{
+    letter-spacing: 3px;
+}
+.himg{
+    height: 70px;
+    width: 70px;
+    
+    padding: 16px;
+    border-radius:  50%;
+    background: #c6767697;
+}

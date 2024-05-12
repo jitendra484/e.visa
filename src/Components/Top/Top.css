@@ -1,0 +1,25 @@
+.top{
+    background: #000000;
+}
+
+
+.logo1{
+    height: 37px;
+    width: 117px;
+    
+}
+.ticon{
+    background:#E92D2D;
+    padding: 4px;
+    border-radius: 50%;
+    
+}
+.sicon{
+    color: whitesmoke;
+    
+}
+.sicon:hover{
+    background: #E92D2D;
+    padding: 4px;
+    border-radius: 50%;
+}

@@ -1,0 +1,65 @@
+.hero{
+    background: linear-gradient(rgba(19, 18, 18, 0.626), rgba(10, 9, 9, 0.635)), url('../../assets/hero.jpg');
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+    width: auto;
+    position: relative;
+}
+
+.herop{
+    height: 500px;
+    width: auto;
+    margin-top: 150px;
+    
+    
+}
+
+.hicon{
+    color: #E92D2D;
+
+}
+.htext{
+    position: absolute;
+    margin-top: 150px;
+    padding-left: 450px;
+
+}
+.hhtext{
+    position: absolute;
+    color: whitesmoke;
+    margin-top:300px ;
+    padding-left: 280px;
+    
+    
+
+}
+.hhhtext {
+    font-size: 75px;
+    word-spacing: 150px;
+}
+.hhhhtext{
+    position: absolute;
+    color:whitesmoke;
+    margin-top:300px ;
+    padding-left: 200px;
+    text-shadow: #E92D2D;
+
+}
+.hhhhtext{
+    font-size: 75px;
+    
+
+}
+.hbtn{
+    position: absolute;
+    margin-top:630px ;
+    margin-left: 480px;
+
+}
+.simg{
+    height: 50px;
+    width: 50px;
+    
+}

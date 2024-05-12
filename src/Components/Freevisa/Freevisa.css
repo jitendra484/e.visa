@@ -1,0 +1,26 @@
+.cta{
+    height: 350px;
+    
+}
+
+.ftitle{
+    padding-left: 100px;
+    padding-top: 50px;
+
+    
+    
+}
+.freevisa{
+    background: linear-gradient(rgba(29, 26, 26, 0.929), rgba(22, 12, 12, 0.975)), url(../../assets/cta_shape.png);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    
+
+}
+.free{
+    letter-spacing: 5px;
+}
+.mt{
+    margin-top: 200px;
+}
